@@ -1,0 +1,174 @@
+spend_date,campaign_id,campaign_name,channel,impressions,clicks,spend_usd
+2026-02-01,camp_001,Spring Trail Search,google_ads,1919,95,118.88
+2026-02-01,camp_004,Trailhead Stories,tiktok,28728,225,388.60
+2026-02-01,camp_005,Sleep Warm,meta,5910,60,66.01
+2026-02-01,camp_006,Trail Review Partners,affiliate,4280,36,60.30
+2026-02-01,camp_009,Expedition Partners,affiliate,2527,14,37.14
+2026-02-02,camp_001,Spring Trail Search,google_ads,1649,71,90.12
+2026-02-02,camp_004,Trailhead Stories,tiktok,19023,181,263.44
+2026-02-02,camp_005,Sleep Warm,meta,5034,68,80.38
+2026-02-02,camp_006,Trail Review Partners,affiliate,5594,47,70.62
+2026-02-02,camp_009,Expedition Partners,affiliate,1176,9,25.35
+2026-02-03,camp_001,Spring Trail Search,google_ads,1794,83,135.33
+2026-02-03,camp_004,Trailhead Stories,tiktok,20069,164,200.60
+2026-02-03,camp_005,Sleep Warm,meta,4548,53,48.63
+2026-02-03,camp_006,Trail Review Partners,affiliate,6775,56,81.05
+2026-02-03,camp_009,Expedition Partners,affiliate,1261,9,19.76
+2026-02-04,camp_001,Spring Trail Search,google_ads,2248,82,120.94
+2026-02-04,camp_004,Trailhead Stories,tiktok,18128,141,213.80
+2026-02-04,camp_005,Sleep Warm,meta,5992,66,82.67
+2026-02-04,camp_006,Trail Review Partners,affiliate,7593,41,69.28
+2026-02-04,camp_009,Expedition Partners,affiliate,2253,12,29.57
+2026-02-05,camp_001,Spring Trail Search,google_ads,1906,99,146.85
+2026-02-05,camp_004,Trailhead Stories,tiktok,19882,196,363.39
+2026-02-05,camp_005,Sleep Warm,meta,4897,62,74.29
+2026-02-05,camp_006,Trail Review Partners,affiliate,5053,37,65.27
+2026-02-05,camp_009,Expedition Partners,affiliate,1196,9,23.05
+2026-02-06,camp_001,Spring Trail Search,google_ads,1745,77,143.23
+2026-02-06,camp_004,Trailhead Stories,tiktok,18898,163,222.59
+2026-02-06,camp_005,Sleep Warm,meta,6122,58,80.55
+2026-02-06,camp_006,Trail Review Partners,affiliate,7198,44,75.81
+2026-02-06,camp_009,Expedition Partners,affiliate,2011,12,33.40
+2026-02-07,camp_001,Spring Trail Search,google_ads,1818,77,99.51
+2026-02-07,camp_004,Trailhead Stories,tiktok,19277,208,306.41
+2026-02-07,camp_005,Sleep Warm,meta,3732,42,54.22
+2026-02-07,camp_006,Trail Review Partners,affiliate,10153,61,89.88
+2026-02-07,camp_009,Expedition Partners,affiliate,1471,8,20.79
+2026-02-08,camp_001,Spring Trail Search,google_ads,1860,94,147.86
+2026-02-08,camp_004,Trailhead Stories,tiktok,20228,216,258.86
+2026-02-08,camp_005,Sleep Warm,meta,5595,53,69.29
+2026-02-08,camp_006,Trail Review Partners,affiliate,10046,46,74.64
+2026-02-08,camp_009,Expedition Partners,affiliate,3005,18,38.90
+2026-02-09,camp_001,Spring Trail Search,google_ads,1893,73,121.02
+2026-02-09,camp_004,Trailhead Stories,tiktok,24156,220,303.26
+2026-02-09,camp_005,Sleep Warm,meta,5243,72,90.13
+2026-02-09,camp_006,Trail Review Partners,affiliate,7174,42,56.26
+2026-02-09,camp_009,Expedition Partners,affiliate,2980,16,41.90
+2026-02-10,camp_001,Spring Trail Search,google_ads,1408,65,96.53
+2026-02-10,camp_002,Base Layer Push,meta,5765,73,59.47
+2026-02-10,camp_004,Trailhead Stories,tiktok,23940,240,313.33
+2026-02-10,camp_005,Sleep Warm,meta,6293,65,71.47
+2026-02-10,camp_006,Trail Review Partners,affiliate,8632,56,99.26
+2026-02-10,camp_009,Expedition Partners,affiliate,1693,14,29.30
+2026-02-11,camp_001,Spring Trail Search,google_ads,1844,75,122.82
+2026-02-11,camp_002,Base Layer Push,meta,6313,58,60.47
+2026-02-11,camp_004,Trailhead Stories,tiktok,27086,191,266.96
+2026-02-11,camp_005,Sleep Warm,meta,4207,56,77.12
+2026-02-11,camp_006,Trail Review Partners,affiliate,11135,56,105.54
+2026-02-11,camp_009,Expedition Partners,affiliate,2111,11,31.99
+2026-02-12,camp_001,Spring Trail Search,google_ads,1687,91,126.23
+2026-02-12,camp_002,Base Layer Push,meta,5353,71,76.46
+2026-02-12,camp_004,Trailhead Stories,tiktok,14413,154,246.06
+2026-02-12,camp_005,Sleep Warm,meta,3689,50,75.66
+2026-02-12,camp_006,Trail Review Partners,affiliate,9636,44,82.21
+2026-02-12,camp_009,Expedition Partners,affiliate,1282,10,21.59
+2026-02-13,camp_001,Spring Trail Search,google_ads,1844,75,116.39
+2026-02-13,camp_002,Base Layer Push,meta,4085,50,43.30
+2026-02-13,camp_004,Trailhead Stories,tiktok,22951,177,270.02
+2026-02-13,camp_005,Sleep Warm,meta,7071,78,103.29
+2026-02-13,camp_006,Trail Review Partners,affiliate,3088,25,40.63
+2026-02-13,camp_009,Expedition Partners,affiliate,1670,12,32.31
+2026-02-14,camp_001,Spring Trail Search,google_ads,1588,79,119.30
+2026-02-14,camp_002,Base Layer Push,meta,5073,47,49.14
+2026-02-14,camp_004,Trailhead Stories,tiktok,21622,216,287.26
+2026-02-14,camp_005,Sleep Warm,meta,3634,45,66.03
+2026-02-14,camp_006,Trail Review Partners,affiliate,8688,43,78.63
+2026-02-14,camp_009,Expedition Partners,affiliate,1822,8,20.07
+2026-02-15,camp_001,Spring Trail Search,google_ads,1722,70,91.63
+2026-02-15,camp_002,Base Layer Push,meta,6085,71,66.94
+2026-02-15,camp_004,Trailhead Stories,tiktok,24333,216,335.69
+2026-02-15,camp_005,Sleep Warm,meta,4928,63,112.69
+2026-02-15,camp_006,Trail Review Partners,affiliate,5179,46,79.33
+2026-02-15,camp_009,Expedition Partners,affiliate,1826,15,38.69
+2026-02-15,camp_010,Camp Kitchen,meta,4743,56,88.73
+2026-02-16,camp_001,Spring Trail Search,google_ads,2173,92,150.67
+2026-02-16,camp_002,Base Layer Push,meta,8114,92,84.39
+2026-02-16,camp_004,Trailhead Stories,tiktok,23335,179,277.87
+2026-02-16,camp_005,Sleep Warm,meta,4089,44,55.74
+2026-02-16,camp_006,Trail Review Partners,affiliate,9180,44,55.28
+2026-02-16,camp_009,Expedition Partners,affiliate,2347,19,50.28
+2026-02-16,camp_010,Camp Kitchen,meta,5792,68,89.39
+2026-02-17,camp_001,Spring Trail Search,google_ads,1824,70,92.52
+2026-02-17,camp_002,Base Layer Push,meta,5231,68,63.21
+2026-02-17,camp_004,Trailhead Stories,tiktok,14561,139,243.95
+2026-02-17,camp_005,Sleep Warm,meta,8859,85,121.58
+2026-02-17,camp_006,Trail Review Partners,affiliate,4815,42,66.22
+2026-02-17,camp_009,Expedition Partners,affiliate,1336,11,26.54
+2026-02-17,camp_010,Camp Kitchen,meta,4428,60,61.77
+2026-02-18,camp_001,Spring Trail Search,google_ads,1630,63,80.80
+2026-02-18,camp_002,Base Layer Push,meta,6935,70,75.08
+2026-02-18,camp_004,Trailhead Stories,tiktok,25602,199,269.81
+2026-02-18,camp_005,Sleep Warm,meta,5337,58,78.57
+2026-02-18,camp_006,Trail Review Partners,affiliate,4305,38,60.46
+2026-02-18,camp_009,Expedition Partners,affiliate,1898,16,35.37
+2026-02-18,camp_010,Camp Kitchen,meta,3708,49,69.70
+2026-02-19,camp_001,Spring Trail Search,google_ads,1489,70,97.39
+2026-02-19,camp_002,Base Layer Push,meta,4840,58,63.82
+2026-02-19,camp_004,Trailhead Stories,tiktok,19594,168,207.47
+2026-02-19,camp_005,Sleep Warm,meta,3820,43,76.20
+2026-02-19,camp_006,Trail Review Partners,affiliate,7515,58,115.33
+2026-02-19,camp_009,Expedition Partners,affiliate,2520,10,23.70
+2026-02-19,camp_010,Camp Kitchen,meta,4902,45,64.56
+2026-02-20,camp_001,Spring Trail Search,google_ads,2413,86,129.27
+2026-02-20,camp_002,Base Layer Push,meta,4217,45,41.87
+2026-02-20,camp_004,Trailhead Stories,tiktok,21768,165,222.96
+2026-02-20,camp_005,Sleep Warm,meta,6010,56,75.24
+2026-02-20,camp_006,Trail Review Partners,affiliate,7203,33,63.15
+2026-02-20,camp_009,Expedition Partners,affiliate,2284,10,26.33
+2026-02-20,camp_010,Camp Kitchen,meta,5126,69,87.83
+2026-02-21,camp_001,Spring Trail Search,google_ads,2201,88,140.63
+2026-02-21,camp_002,Base Layer Push,meta,5654,57,55.49
+2026-02-21,camp_004,Trailhead Stories,tiktok,17997,174,232.67
+2026-02-21,camp_005,Sleep Warm,meta,4063,54,80.07
+2026-02-21,camp_006,Trail Review Partners,affiliate,10081,49,95.68
+2026-02-21,camp_009,Expedition Partners,affiliate,1948,12,25.93
+2026-02-21,camp_010,Camp Kitchen,meta,5847,53,96.51
+2026-02-22,camp_001,Spring Trail Search,google_ads,2718,96,109.48
+2026-02-22,camp_002,Base Layer Push,meta,10154,98,79.79
+2026-02-22,camp_004,Trailhead Stories,tiktok,16834,166,209.03
+2026-02-22,camp_005,Sleep Warm,meta,5558,66,86.62
+2026-02-22,camp_006,Trail Review Partners,affiliate,8590,50,83.95
+2026-02-22,camp_009,Expedition Partners,affiliate,1486,11,28.53
+2026-02-22,camp_010,Camp Kitchen,meta,4353,52,73.89
+2026-02-23,camp_001,Spring Trail Search,google_ads,1532,69,107.77
+2026-02-23,camp_002,Base Layer Push,meta,5219,65,63.99
+2026-02-23,camp_004,Trailhead Stories,tiktok,18871,202,258.62
+2026-02-23,camp_005,Sleep Warm,meta,5940,56,77.84
+2026-02-23,camp_006,Trail Review Partners,affiliate,4189,34,52.17
+2026-02-23,camp_009,Expedition Partners,affiliate,1227,7,19.37
+2026-02-23,camp_010,Camp Kitchen,meta,6090,67,95.56
+2026-02-24,camp_001,Spring Trail Search,google_ads,2291,97,159.06
+2026-02-24,camp_002,Base Layer Push,meta,8080,75,92.74
+2026-02-24,camp_004,Trailhead Stories,tiktok,22056,188,276.02
+2026-02-24,camp_005,Sleep Warm,meta,3374,42,58.35
+2026-02-24,camp_006,Trail Review Partners,affiliate,9768,40,78.15
+2026-02-24,camp_009,Expedition Partners,affiliate,1087,9,21.94
+2026-02-24,camp_010,Camp Kitchen,meta,6518,61,92.11
+2026-02-25,camp_001,Spring Trail Search,google_ads,1542,73,101.51
+2026-02-25,camp_002,Base Layer Push,meta,5717,77,82.87
+2026-02-25,camp_004,Trailhead Stories,tiktok,16090,172,209.42
+2026-02-25,camp_005,Sleep Warm,meta,3946,54,77.51
+2026-02-25,camp_006,Trail Review Partners,affiliate,8781,60,89.71
+2026-02-25,camp_009,Expedition Partners,affiliate,2254,12,31.97
+2026-02-25,camp_010,Camp Kitchen,meta,4154,55,67.15
+2026-02-26,camp_001,Spring Trail Search,google_ads,2134,81,108.84
+2026-02-26,camp_002,Base Layer Push,meta,4280,56,57.58
+2026-02-26,camp_004,Trailhead Stories,tiktok,21591,166,249.79
+2026-02-26,camp_005,Sleep Warm,meta,3687,49,59.93
+2026-02-26,camp_006,Trail Review Partners,affiliate,7925,56,93.26
+2026-02-26,camp_009,Expedition Partners,affiliate,1590,11,20.74
+2026-02-26,camp_010,Camp Kitchen,meta,5217,59,81.51
+2026-02-27,camp_001,Spring Trail Search,google_ads,1886,73,96.62
+2026-02-27,camp_002,Base Layer Push,meta,5618,60,79.65
+2026-02-27,camp_004,Trailhead Stories,tiktok,28233,201,330.28
+2026-02-27,camp_005,Sleep Warm,meta,4064,56,61.14
+2026-02-27,camp_006,Trail Review Partners,affiliate,5659,45,75.58
+2026-02-27,camp_009,Expedition Partners,affiliate,1300,11,27.31
+2026-02-27,camp_010,Camp Kitchen,meta,6786,63,89.31
+2026-02-28,camp_001,Spring Trail Search,google_ads,1696,86,147.02
+2026-02-28,camp_002,Base Layer Push,meta,6127,76,68.35
+2026-02-28,camp_004,Trailhead Stories,tiktok,27161,202,340.73
+2026-02-28,camp_005,Sleep Warm,meta,8427,80,91.92
+2026-02-28,camp_006,Trail Review Partners,affiliate,7493,38,59.86
+2026-02-28,camp_009,Expedition Partners,affiliate,972,8,21.63
+2026-02-28,camp_010,Camp Kitchen,meta,6795,61,82.97

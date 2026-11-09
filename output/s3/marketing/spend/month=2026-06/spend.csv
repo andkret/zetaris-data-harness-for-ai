@@ -1,0 +1,146 @@
+spend_date,campaign_id,campaign_name,channel,impressions,clicks,spend_usd
+2026-06-01,camp_003,Shelter Season,google_ads,3223,172,358.02
+2026-06-01,camp_004,Trailhead Stories,tiktok,45826,387,635.41
+2026-06-01,camp_006,Trail Review Partners,affiliate,16145,98,190.18
+2026-06-01,camp_007,Fit Promise Footwear,google_ads,3177,130,201.38
+2026-06-01,camp_008,Packed & Ready,tiktok,19272,141,224.75
+2026-06-01,camp_010,Camp Kitchen,meta,9570,91,128.93
+2026-06-02,camp_003,Shelter Season,google_ads,3483,133,272.87
+2026-06-02,camp_004,Trailhead Stories,tiktok,26959,266,444.92
+2026-06-02,camp_006,Trail Review Partners,affiliate,8744,69,106.94
+2026-06-02,camp_007,Fit Promise Footwear,google_ads,2535,121,211.54
+2026-06-02,camp_008,Packed & Ready,tiktok,10836,102,199.67
+2026-06-02,camp_010,Camp Kitchen,meta,8761,122,162.29
+2026-06-03,camp_003,Shelter Season,google_ads,2927,139,232.54
+2026-06-03,camp_004,Trailhead Stories,tiktok,45255,364,416.97
+2026-06-03,camp_006,Trail Review Partners,affiliate,18889,127,202.00
+2026-06-03,camp_007,Fit Promise Footwear,google_ads,2954,125,225.94
+2026-06-03,camp_008,Packed & Ready,tiktok,11944,102,199.11
+2026-06-03,camp_010,Camp Kitchen,meta,12996,134,187.25
+2026-06-04,camp_003,Shelter Season,google_ads,1829,76,156.41
+2026-06-04,camp_004,Trailhead Stories,tiktok,48017,400,548.58
+2026-06-04,camp_006,Trail Review Partners,affiliate,11532,95,171.48
+2026-06-04,camp_007,Fit Promise Footwear,google_ads,3101,124,168.49
+2026-06-04,camp_008,Packed & Ready,tiktok,10680,100,196.98
+2026-06-04,camp_010,Camp Kitchen,meta,11488,109,150.72
+2026-06-05,camp_003,Shelter Season,google_ads,2944,160,355.26
+2026-06-05,camp_004,Trailhead Stories,tiktok,35923,332,431.18
+2026-06-05,camp_006,Trail Review Partners,affiliate,19037,101,158.60
+2026-06-05,camp_007,Fit Promise Footwear,google_ads,2198,103,169.21
+2026-06-05,camp_008,Packed & Ready,tiktok,12841,96,186.12
+2026-06-05,camp_010,Camp Kitchen,meta,10068,115,173.46
+2026-06-06,camp_003,Shelter Season,google_ads,3535,141,320.16
+2026-06-06,camp_004,Trailhead Stories,tiktok,60142,458,549.95
+2026-06-06,camp_006,Trail Review Partners,affiliate,15756,101,190.52
+2026-06-06,camp_007,Fit Promise Footwear,google_ads,2043,101,169.18
+2026-06-06,camp_008,Packed & Ready,tiktok,8521,87,171.39
+2026-06-06,camp_010,Camp Kitchen,meta,5090,66,75.89
+2026-06-07,camp_003,Shelter Season,google_ads,3450,137,306.12
+2026-06-07,camp_004,Trailhead Stories,tiktok,39895,389,506.00
+2026-06-07,camp_006,Trail Review Partners,affiliate,10029,83,143.34
+2026-06-07,camp_007,Fit Promise Footwear,google_ads,2727,146,267.19
+2026-06-07,camp_008,Packed & Ready,tiktok,17627,127,233.51
+2026-06-07,camp_010,Camp Kitchen,meta,9475,127,169.38
+2026-06-08,camp_003,Shelter Season,google_ads,4411,177,298.23
+2026-06-08,camp_004,Trailhead Stories,tiktok,46980,347,540.72
+2026-06-08,camp_006,Trail Review Partners,affiliate,17378,92,163.09
+2026-06-08,camp_007,Fit Promise Footwear,google_ads,2858,102,154.44
+2026-06-08,camp_008,Packed & Ready,tiktok,20769,155,279.42
+2026-06-08,camp_010,Camp Kitchen,meta,8421,108,135.72
+2026-06-09,camp_003,Shelter Season,google_ads,2816,142,267.75
+2026-06-09,camp_004,Trailhead Stories,tiktok,42072,322,474.38
+2026-06-09,camp_006,Trail Review Partners,affiliate,12440,97,148.54
+2026-06-09,camp_007,Fit Promise Footwear,google_ads,3545,167,233.67
+2026-06-09,camp_008,Packed & Ready,tiktok,11053,100,208.23
+2026-06-09,camp_010,Camp Kitchen,meta,8236,109,148.26
+2026-06-10,camp_003,Shelter Season,google_ads,2178,101,182.33
+2026-06-10,camp_004,Trailhead Stories,tiktok,43408,321,488.59
+2026-06-10,camp_006,Trail Review Partners,affiliate,12081,97,165.75
+2026-06-10,camp_007,Fit Promise Footwear,google_ads,2312,101,199.39
+2026-06-10,camp_008,Packed & Ready,tiktok,15274,110,195.90
+2026-06-10,camp_010,Camp Kitchen,meta,10145,129,126.65
+2026-06-11,camp_003,Shelter Season,google_ads,2677,122,232.23
+2026-06-11,camp_004,Trailhead Stories,tiktok,55207,478,800.91
+2026-06-11,camp_006,Trail Review Partners,affiliate,13795,115,183.19
+2026-06-11,camp_007,Fit Promise Footwear,google_ads,3341,120,217.29
+2026-06-11,camp_008,Packed & Ready,tiktok,11240,118,240.23
+2026-06-12,camp_003,Shelter Season,google_ads,2710,145,234.48
+2026-06-12,camp_004,Trailhead Stories,tiktok,52873,412,777.06
+2026-06-12,camp_006,Trail Review Partners,affiliate,11850,83,147.07
+2026-06-12,camp_007,Fit Promise Footwear,google_ads,2552,108,141.78
+2026-06-12,camp_008,Packed & Ready,tiktok,13735,100,221.08
+2026-06-13,camp_003,Shelter Season,google_ads,2881,156,374.91
+2026-06-13,camp_004,Trailhead Stories,tiktok,54412,436,530.97
+2026-06-13,camp_006,Trail Review Partners,affiliate,25247,126,197.50
+2026-06-13,camp_007,Fit Promise Footwear,google_ads,3159,153,220.79
+2026-06-13,camp_008,Packed & Ready,tiktok,15008,147,208.70
+2026-06-14,camp_003,Shelter Season,google_ads,3017,164,356.78
+2026-06-14,camp_004,Trailhead Stories,tiktok,45752,430,618.07
+2026-06-14,camp_006,Trail Review Partners,affiliate,18981,133,237.28
+2026-06-14,camp_007,Fit Promise Footwear,google_ads,3566,131,235.85
+2026-06-14,camp_008,Packed & Ready,tiktok,14938,135,220.34
+2026-06-15,camp_003,Shelter Season,google_ads,2986,148,223.53
+2026-06-15,camp_004,Trailhead Stories,tiktok,49154,452,729.69
+2026-06-15,camp_006,Trail Review Partners,affiliate,23770,141,232.51
+2026-06-15,camp_007,Fit Promise Footwear,google_ads,3267,155,298.73
+2026-06-15,camp_008,Packed & Ready,tiktok,16702,128,223.68
+2026-06-16,camp_003,Shelter Season,google_ads,5134,218,457.79
+2026-06-16,camp_006,Trail Review Partners,affiliate,14480,123,210.03
+2026-06-16,camp_007,Fit Promise Footwear,google_ads,3196,169,265.07
+2026-06-16,camp_008,Packed & Ready,tiktok,18679,162,349.06
+2026-06-17,camp_003,Shelter Season,google_ads,3732,168,378.89
+2026-06-17,camp_006,Trail Review Partners,affiliate,29946,166,291.24
+2026-06-17,camp_007,Fit Promise Footwear,google_ads,4224,211,336.31
+2026-06-17,camp_008,Packed & Ready,tiktok,17199,149,312.23
+2026-06-18,camp_003,Shelter Season,google_ads,4074,183,398.45
+2026-06-18,camp_006,Trail Review Partners,affiliate,27826,154,201.38
+2026-06-18,camp_007,Fit Promise Footwear,google_ads,4524,166,305.83
+2026-06-18,camp_008,Packed & Ready,tiktok,17040,183,309.35
+2026-06-19,camp_003,Shelter Season,google_ads,4216,171,349.98
+2026-06-19,camp_006,Trail Review Partners,affiliate,16680,129,183.17
+2026-06-19,camp_007,Fit Promise Footwear,google_ads,5229,211,286.94
+2026-06-19,camp_008,Packed & Ready,tiktok,23240,167,274.10
+2026-06-20,camp_003,Shelter Season,google_ads,6389,263,424.55
+2026-06-20,camp_006,Trail Review Partners,affiliate,26121,121,198.15
+2026-06-20,camp_007,Fit Promise Footwear,google_ads,4346,235,337.30
+2026-06-20,camp_008,Packed & Ready,tiktok,24050,219,354.98
+2026-06-21,camp_003,Shelter Season,google_ads,6184,245,377.60
+2026-06-21,camp_006,Trail Review Partners,affiliate,28242,170,271.35
+2026-06-21,camp_007,Fit Promise Footwear,google_ads,4085,190,260.94
+2026-06-21,camp_008,Packed & Ready,tiktok,26521,275,565.81
+2026-06-22,camp_003,Shelter Season,google_ads,3913,155,295.46
+2026-06-22,camp_006,Trail Review Partners,affiliate,18051,157,258.03
+2026-06-22,camp_007,Fit Promise Footwear,google_ads,3911,201,353.47
+2026-06-22,camp_008,Packed & Ready,tiktok,18291,186,401.48
+2026-06-23,camp_003,Shelter Season,google_ads,6095,218,399.82
+2026-06-23,camp_006,Trail Review Partners,affiliate,24365,137,167.81
+2026-06-23,camp_007,Fit Promise Footwear,google_ads,4515,226,404.67
+2026-06-23,camp_008,Packed & Ready,tiktok,20470,182,301.01
+2026-06-24,camp_003,Shelter Season,google_ads,4624,204,394.61
+2026-06-24,camp_006,Trail Review Partners,affiliate,29855,163,273.61
+2026-06-24,camp_007,Fit Promise Footwear,google_ads,4232,168,274.09
+2026-06-24,camp_008,Packed & Ready,tiktok,22320,184,330.42
+2026-06-25,camp_003,Shelter Season,google_ads,4458,228,407.49
+2026-06-25,camp_006,Trail Review Partners,affiliate,25094,146,198.86
+2026-06-25,camp_007,Fit Promise Footwear,google_ads,3085,169,329.48
+2026-06-25,camp_008,Packed & Ready,tiktok,23656,196,333.17
+2026-06-26,camp_003,Shelter Season,google_ads,4553,224,460.16
+2026-06-26,camp_006,Trail Review Partners,affiliate,21271,146,226.63
+2026-06-26,camp_007,Fit Promise Footwear,google_ads,5072,207,355.55
+2026-06-26,camp_008,Packed & Ready,tiktok,16429,133,274.68
+2026-06-27,camp_003,Shelter Season,google_ads,3723,168,321.43
+2026-06-27,camp_006,Trail Review Partners,affiliate,18757,134,245.85
+2026-06-27,camp_007,Fit Promise Footwear,google_ads,6446,231,456.40
+2026-06-27,camp_008,Packed & Ready,tiktok,21844,180,422.62
+2026-06-28,camp_003,Shelter Season,google_ads,5374,234,559.54
+2026-06-28,camp_006,Trail Review Partners,affiliate,19018,138,222.19
+2026-06-28,camp_007,Fit Promise Footwear,google_ads,7359,274,568.64
+2026-06-28,camp_008,Packed & Ready,tiktok,18344,183,399.01
+2026-06-29,camp_003,Shelter Season,google_ads,5017,219,341.00
+2026-06-29,camp_006,Trail Review Partners,affiliate,26355,156,279.07
+2026-06-29,camp_007,Fit Promise Footwear,google_ads,6848,240,361.25
+2026-06-29,camp_008,Packed & Ready,tiktok,24572,223,351.98
+2026-06-30,camp_003,Shelter Season,google_ads,5212,213,404.11
+2026-06-30,camp_006,Trail Review Partners,affiliate,16581,124,204.00
+2026-06-30,camp_007,Fit Promise Footwear,google_ads,4800,243,320.69
+2026-06-30,camp_008,Packed & Ready,tiktok,34403,252,421.86

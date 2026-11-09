@@ -1,0 +1,91 @@
+spend_date,campaign_id,campaign_name,channel,impressions,clicks,spend_usd
+2026-01-01,camp_006,Trail Review Partners,affiliate,14883,86,131.80
+2026-01-02,camp_006,Trail Review Partners,affiliate,17007,100,144.05
+2026-01-03,camp_006,Trail Review Partners,affiliate,20766,123,180.30
+2026-01-04,camp_006,Trail Review Partners,affiliate,25508,114,222.14
+2026-01-05,camp_001,Spring Trail Search,google_ads,1990,105,134.71
+2026-01-05,camp_006,Trail Review Partners,affiliate,10461,87,184.77
+2026-01-06,camp_001,Spring Trail Search,google_ads,2272,118,153.37
+2026-01-06,camp_006,Trail Review Partners,affiliate,9541,67,103.02
+2026-01-07,camp_001,Spring Trail Search,google_ads,3120,128,186.48
+2026-01-07,camp_006,Trail Review Partners,affiliate,7533,63,85.36
+2026-01-08,camp_001,Spring Trail Search,google_ads,3253,121,188.48
+2026-01-08,camp_006,Trail Review Partners,affiliate,5983,52,98.60
+2026-01-09,camp_001,Spring Trail Search,google_ads,2499,101,128.80
+2026-01-09,camp_006,Trail Review Partners,affiliate,16236,68,98.80
+2026-01-10,camp_001,Spring Trail Search,google_ads,2861,126,160.44
+2026-01-10,camp_006,Trail Review Partners,affiliate,10150,63,102.00
+2026-01-11,camp_001,Spring Trail Search,google_ads,4232,164,262.38
+2026-01-11,camp_006,Trail Review Partners,affiliate,9287,55,74.16
+2026-01-12,camp_001,Spring Trail Search,google_ads,2603,111,190.60
+2026-01-12,camp_005,Sleep Warm,meta,5048,56,76.20
+2026-01-12,camp_006,Trail Review Partners,affiliate,13754,65,89.21
+2026-01-13,camp_001,Spring Trail Search,google_ads,2151,111,184.45
+2026-01-13,camp_005,Sleep Warm,meta,3793,52,67.23
+2026-01-13,camp_006,Trail Review Partners,affiliate,12738,63,91.75
+2026-01-14,camp_001,Spring Trail Search,google_ads,3065,109,144.14
+2026-01-14,camp_005,Sleep Warm,meta,6819,82,98.83
+2026-01-14,camp_006,Trail Review Partners,affiliate,6139,43,73.16
+2026-01-15,camp_001,Spring Trail Search,google_ads,2042,98,131.41
+2026-01-15,camp_005,Sleep Warm,meta,5118,67,102.57
+2026-01-15,camp_006,Trail Review Partners,affiliate,7659,55,87.79
+2026-01-16,camp_001,Spring Trail Search,google_ads,1986,99,168.62
+2026-01-16,camp_005,Sleep Warm,meta,7207,70,102.99
+2026-01-16,camp_006,Trail Review Partners,affiliate,8509,62,115.64
+2026-01-17,camp_001,Spring Trail Search,google_ads,3115,111,146.02
+2026-01-17,camp_005,Sleep Warm,meta,7858,86,110.54
+2026-01-17,camp_006,Trail Review Partners,affiliate,11476,49,66.68
+2026-01-18,camp_001,Spring Trail Search,google_ads,2779,139,181.37
+2026-01-18,camp_005,Sleep Warm,meta,7767,100,135.49
+2026-01-18,camp_006,Trail Review Partners,affiliate,9949,84,125.82
+2026-01-19,camp_001,Spring Trail Search,google_ads,2714,117,161.48
+2026-01-19,camp_005,Sleep Warm,meta,8449,81,112.44
+2026-01-19,camp_006,Trail Review Partners,affiliate,9186,62,89.32
+2026-01-20,camp_001,Spring Trail Search,google_ads,1751,93,129.60
+2026-01-20,camp_005,Sleep Warm,meta,6221,76,88.73
+2026-01-20,camp_006,Trail Review Partners,affiliate,7769,66,126.73
+2026-01-20,camp_009,Expedition Partners,affiliate,3170,20,54.85
+2026-01-21,camp_001,Spring Trail Search,google_ads,2869,110,136.63
+2026-01-21,camp_005,Sleep Warm,meta,5777,78,115.92
+2026-01-21,camp_006,Trail Review Partners,affiliate,10997,82,119.00
+2026-01-21,camp_009,Expedition Partners,affiliate,1362,11,27.05
+2026-01-22,camp_001,Spring Trail Search,google_ads,2911,110,203.08
+2026-01-22,camp_005,Sleep Warm,meta,6792,74,90.55
+2026-01-22,camp_006,Trail Review Partners,affiliate,5301,47,68.99
+2026-01-22,camp_009,Expedition Partners,affiliate,1772,11,29.02
+2026-01-23,camp_001,Spring Trail Search,google_ads,2566,99,153.93
+2026-01-23,camp_005,Sleep Warm,meta,5686,64,96.23
+2026-01-23,camp_006,Trail Review Partners,affiliate,9765,66,102.63
+2026-01-23,camp_009,Expedition Partners,affiliate,1561,9,21.63
+2026-01-24,camp_001,Spring Trail Search,google_ads,2080,104,181.42
+2026-01-24,camp_005,Sleep Warm,meta,6486,72,124.74
+2026-01-24,camp_006,Trail Review Partners,affiliate,5506,49,87.62
+2026-01-24,camp_009,Expedition Partners,affiliate,1685,14,39.31
+2026-01-25,camp_001,Spring Trail Search,google_ads,2436,108,138.29
+2026-01-25,camp_005,Sleep Warm,meta,6325,71,104.85
+2026-01-25,camp_006,Trail Review Partners,affiliate,7984,61,115.05
+2026-01-25,camp_009,Expedition Partners,affiliate,1601,12,29.84
+2026-01-26,camp_001,Spring Trail Search,google_ads,2550,110,165.66
+2026-01-26,camp_005,Sleep Warm,meta,6299,64,90.61
+2026-01-26,camp_006,Trail Review Partners,affiliate,9227,67,110.83
+2026-01-26,camp_009,Expedition Partners,affiliate,3990,22,55.78
+2026-01-27,camp_001,Spring Trail Search,google_ads,2661,116,152.98
+2026-01-27,camp_005,Sleep Warm,meta,7800,81,98.18
+2026-01-27,camp_006,Trail Review Partners,affiliate,11639,57,87.54
+2026-01-27,camp_009,Expedition Partners,affiliate,4700,20,55.03
+2026-01-28,camp_001,Spring Trail Search,google_ads,2287,101,157.19
+2026-01-28,camp_005,Sleep Warm,meta,5931,70,98.00
+2026-01-28,camp_006,Trail Review Partners,affiliate,9843,70,127.91
+2026-01-28,camp_009,Expedition Partners,affiliate,3108,14,28.57
+2026-01-29,camp_001,Spring Trail Search,google_ads,2717,107,171.36
+2026-01-29,camp_005,Sleep Warm,meta,4720,60,66.58
+2026-01-29,camp_006,Trail Review Partners,affiliate,11742,87,139.14
+2026-01-29,camp_009,Expedition Partners,affiliate,2415,17,46.80
+2026-01-30,camp_001,Spring Trail Search,google_ads,2379,108,132.50
+2026-01-30,camp_005,Sleep Warm,meta,9702,89,118.30
+2026-01-30,camp_006,Trail Review Partners,affiliate,15070,62,102.05
+2026-01-30,camp_009,Expedition Partners,affiliate,4675,20,62.17
+2026-01-31,camp_001,Spring Trail Search,google_ads,2728,129,172.42
+2026-01-31,camp_005,Sleep Warm,meta,6410,86,112.86
+2026-01-31,camp_006,Trail Review Partners,affiliate,11493,61,91.17
+2026-01-31,camp_009,Expedition Partners,affiliate,2120,16,39.42
